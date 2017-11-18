@@ -16,6 +16,7 @@
 .icon-wechat:before { content: "\3488"; }
 .icon-education:before { content: "\ebca"; }
 .icon-work:before { content: "\eac9"; }
+.icon-pen:before { content: "\eaf8"; }
 .icon-flag:before { content: "\eb6f"; }
 .icon-flower:before { content: "\ec0a"; }
 
@@ -169,7 +170,7 @@ ul li{
     padding-left: 20px;
 	padding-right: 20px;
 	padding-top: 60px;
-	padding-bottom: 180px
+	padding-bottom: 60px
 }
 
 .right-list li {
